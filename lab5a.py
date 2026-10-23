@@ -1,7 +1,7 @@
 # Add comments before you do anything else.
 #!/usr/bin/env python3
-# Author:
-# Date:
+# Author: AHSUN KHALID
+# Date: 22/10/2026
 # Purpose: Read a text file.
 # Usage: ./lab5a.py
 
